@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# hi, this is Anna:)
+# hi, this is Anja:)
 
 **Technical Artist · Developer · Game Designer**  
 
